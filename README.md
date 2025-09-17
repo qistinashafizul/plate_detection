@@ -37,7 +37,7 @@ plate-detection/
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/license-plate-detector.git
-cd license-plate-detector
+cd license-detection
 ```
 
 2. Install dependencies:
