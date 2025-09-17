@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit>=1.28.0
+opencv-python>=4.8.0
+easyocr>=1.7.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Optional: Additional image processing
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Optional: For better performance and GPU support
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
